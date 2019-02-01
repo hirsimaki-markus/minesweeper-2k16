@@ -1,0 +1,9 @@
+Lost in 00 minutes and 37 seconds at 19:38:55 06/07/2017 on 10*10 board with 0015 mines over 6 turns
+Won  in 00 minutes and 07 seconds at 19:44:37 06/07/2017 on 10*10 board with 0001 mines over 2 turns
+Lost in 00 minutes and 17 seconds at 19:44:57 06/07/2017 on 20*20 board with 0100 mines over 4 turns
+Lost in 00 minutes and 17 seconds at 15:16:15 22/03/2018 on 10*10 board with 0008 mines over 1 turns
+Lost in 00 minutes and 34 seconds at 15:16:48 22/03/2018 on 06*6 board with 0003 mines over 2 turns
+Won  in 00 minutes and 35 seconds at 15:18:13 22/03/2018 on 15*15 board with 0001 mines over 3 turns
+Lost in 00 minutes and 54 seconds at 13:07:46 17/08/2018 on 12*12 board with 0006 mines over 2 turns
+Lost in 00 minutes and 06 seconds at 09:41:59 01/02/2019 on 10*10 board with 0099 mines over 1 turns
+Lost in 02 minutes and 31 seconds at 09:42:59 01/02/2019 on 10*10 board with 0010 mines over 3 turns
