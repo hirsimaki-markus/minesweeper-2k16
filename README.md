@@ -1,5 +1,5 @@
 # minesweeper-2k16
-Command line minesweeper clone
+Command line minesweeper clone in python. No external libraries used
 
 ![](https://raw.githubusercontent.com/hirsimaki-markus/minesweeper-2k16/master/minesweeper_2k16/mine_sweeper_gif.gif)
 
